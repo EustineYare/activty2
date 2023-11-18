@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>ABOUT US</title>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+        
+            <img src="hotelbed.jpg" alt="TIMONS CABANSI" width="1200" height="500">
+      </nav>
+    </header>
+
+    <h1>ABOUT US</h1>
+    <a>    WHO IS TIMONS CABANSI,
+        -AND WHY YOU SHOULD GET HIS SERVICE?
+        
+        Hi! I’m Timons Cabansi, and please just call me, Tims!
+        So more about me…
+        Well, I am your native-born Baguio boy, who was raised here in the good old city of Pines. I started practicing as a real estate service provider a few years ago. Having both good and bad experiences has given me the knowledge and wisdom to do a good job for my clients
+    
+        What can I do for you…
+        The best things that my clients can look forward to are my attention to detail, persistence, transparency, and direct honesty. They save time, money, and can better avoid the typical hassles of real estate dealings. My hope is that my potential clients can see the value of using an honest, hard-working person that has the time to commit to his clients’ needs as they are my only priority!</a>
+
+  </body>
+</html>
